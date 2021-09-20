@@ -70,17 +70,20 @@
       main {
           width: 100%;
           display: block;
-          padding: 40px 0;
+          padding: 50px 0;
           margin: 0px;
       }
+
       .step-box {
           width: 90%;
-          margin: 10px auto;
+          margin: 0px auto;
+          margin-bottom: 20px;
 
       }
       
       .step-box:last-child {
         margin-right: auto;
+        margin-bottom: 0;
       }
 
 
